@@ -1,0 +1,90 @@
+
+/* Body: Sets the font and background color of the page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f3ee;
+    color: #333333;
+    margin: 0;
+}
+
+
+/* Header Section: Styles the top part of the portfolio */
+header {
+    background-color: #315c50;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+header h1 {
+    margin-bottom: 5px;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: #f2d6a2;
+}
+
+
+/* All Sections: Gives sections a white background */
+section {
+    background-color: white;
+    width: 80%;
+    margin: 25px auto;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+
+/* Headings: Changes the color of section headings */
+h2 {
+    color: #315c50;
+    text-align: center;
+}
+
+
+/* About Section: Makes introduction easy to read */
+#about p {
+    line-height: 1.7;
+}
+
+
+/* Testimonials Section: Styles the feedback area */
+#testimonials {
+    background-color: #fffaf0;
+    text-align: center;
+}
+
+
+/* Skills Section: Styles the skill headings and lists */
+#skills h3 {
+    color: #8a6845;
+}
+
+#skills li {
+    margin: 8px;
+}
+
+
+/* Contact Section: Styles the LinkedIn link */
+#contact a {
+    color: #315c50;
+}
+
+
+/* Footer Section: Styles the bottom of the website */
+footer {
+    background-color: #315c50;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
